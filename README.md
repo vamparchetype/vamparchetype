@@ -2,7 +2,7 @@
 
 # Nez
 
-> Product-minded developer
+> Fullstack developer
 
 <p align="center">
   <img src="https://www.gitskins.com/api/section/hero?username=vamparchetype&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F344854140%3Fu%3Daedbeb645b36055fc3e38d17667fad67588174f8%26v%3D4" alt="vamparchetype hero visual" />
