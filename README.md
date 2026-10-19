@@ -18,7 +18,7 @@
   <img src="https://www.gitskins.com/api/section/stats?username=vamparchetype&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F344854140%3Fu%3Daedbeb645b36055fc3e38d17667fad67588174f8%26v%3D4" alt="vamparchetype stats visual" />
 </p>
 
-<p><code>1 contributions</code> · <code>1 day streak</code></p>
+<p><code>3 contributions</code> · <code>1 day streak</code></p>
 
 ## Methods and tools
 
@@ -33,14 +33,14 @@ No public language data yet — building the first project in the open.
 name: Nez
 focus: public experiments
 languages: []
-repositories: 0
+repositories: 1
 ```
 
 </details>
 
 ## Experiments
 
-Public projects are being indexed.
+- **[vamparchetype](https://github.com/vamparchetype/vamparchetype)** — Featured public work · ⭐ 0
 
 ## Compare notes
 
